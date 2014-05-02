@@ -1,0 +1,10 @@
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\bin\Debug\KanbaneryAPI.Tests.exe.config
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\bin\Debug\KanbaneryAPI.Tests.exe
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\bin\Debug\KanbaneryAPI.Tests.pdb
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\bin\Debug\KanbaneryAPI.Core.dll
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\bin\Debug\KanbaneryAPI.Core.pdb
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\obj\Debug\KanbaneryAPI.Tests.csprojResolveAssemblyReference.cache
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\obj\Debug\KanbaneryAPI.Tests.exe
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Tests\obj\Debug\KanbaneryAPI.Tests.pdb

@@ -1,0 +1,7 @@
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Core\bin\Debug\KanbaneryAPI.Core.dll
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Core\bin\Debug\KanbaneryAPI.Core.pdb
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Core\bin\Debug\Newtonsoft.Json.dll
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Core\bin\Debug\Newtonsoft.Json.xml
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Core\obj\Debug\KanbaneryAPI.Core.dll
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Core\obj\Debug\KanbaneryAPI.Core.pdb
+c:\users\asbjorn.bydal\documents\visual studio 2013\Projects\KanbaneryAPI\KanbaneryAPI.Core\obj\Debug\KanbaneryAPI.Core.csprojResolveAssemblyReference.cache
