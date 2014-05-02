@@ -8,7 +8,7 @@ namespace KanbaneryAPI.Tests
     {
         static void Main(string[] args)
         {
-            string token = "your_api_token"
+            string token = "your_api_token";
             var workspace = KanbaneryService.GetWorkspacesResources(token).First();
 
             var project = workspace.Projects.First(); 
